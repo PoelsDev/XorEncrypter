@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XorEncrypter", "XorEncrypter\XorEncrypter.csproj", "{88A9199D-3FC2-4E54-BF5D-43D0D8607EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A9199D-3FC2-4E54-BF5D-43D0D8607EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A9199D-3FC2-4E54-BF5D-43D0D8607EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A9199D-3FC2-4E54-BF5D-43D0D8607EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A9199D-3FC2-4E54-BF5D-43D0D8607EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1391EC41-3F44-4476-9403-7F44BAA4EE87}
+	EndGlobalSection
+EndGlobal
